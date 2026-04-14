@@ -1,4 +1,4 @@
-{% set version = "1.4.2" %}
+{% set version = "1.5.0" %}
 
 package:
   name: pyxtf
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pyxtf/pyxtf-{{ version }}.tar.gz
-  sha256: 739178848e7cb4f12f1f536651e24b7b07787e2dd29d4834c725678fa7858625
+  sha256: a7960b64d13b810b69b08fff1117cc2dbf204575ddc97027f8e3f727e7b5f977
 
 build:
   noarch: python
